@@ -1,4 +1,4 @@
-# Blog
+# Blog - Image Inpainting via Generative Multi-column Convolutional Neural Networks
 ## Purpose 
 Image inpainting is filling in missing or damaged areas of images, which has seen remarkable advancements with the advent of deep learning. This project introduces a novel approach to tackle this challenge. The main purpose of this project is to address the highly ill-posed problem of image inpainting by generating realistic structures and textures.
 ## Discussion of the architecture 
